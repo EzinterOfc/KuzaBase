@@ -85,9 +85,9 @@ const simple = require('./lib/simple.js')
 let botname = '*_｢ KuzaBase 0.1 ｣ 冬_*' //NAMA BOT
 let lolkey = 'isi'
 let zekskey = 'NXRu7zmcmyWTn0YGNzIV0gTFgoP' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = '*_｢ AbilGanz ✘ ｣_*' //NAMA OWNER
-let owner = '6282293295376' // NOMOR OWNER
-let symbol = '*☛*'
+biarkan nama pemilik  = '*_｢ Faisal  ｣_*' // PEMILIK NAMA  
+biarkan  pemilik  =  '6285600380823'  // NOMOR PEMILIK
+biarkan  simbol  =  '*☛*'
 let faketeks = `*_｢ KuzaBase 0.1 ｣ 冬_*` 
 
 readGc = true; 
