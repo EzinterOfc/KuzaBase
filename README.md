@@ -38,7 +38,7 @@ npm start
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/CS4ESARec5o476nHesGIDt)
+- [`GROUP WA`](https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ)
 
 
 ---------
